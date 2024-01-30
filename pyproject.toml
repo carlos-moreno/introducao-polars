@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "introducao-polars"
+version = "0.0.1"
+description = "Estudos de introdução ao Polars"
+authors = ["Carlos Moreno <omorenodovale@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+polars = "^0.20.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
