@@ -7,4 +7,4 @@ print(f"Colunas do Dataframe => {df.columns}")
 
 print(df.head())
 
-print(df.tail(2))
+print(df.tail(3))
