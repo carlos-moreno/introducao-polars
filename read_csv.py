@@ -5,6 +5,6 @@ df = pl.read_csv("assets/csv_exemplo.csv", separator=";")
 
 print(f"Colunas do Dataframe => {df.columns}")
 
-print(df.head(4))
+print(df.head(3))
 
-print(df.tail(2))
+print(df.tail(4))
