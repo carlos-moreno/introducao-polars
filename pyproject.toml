@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "introducao-polars"
 version = "0.0.1"
-description = "Estudos de introdução ao Polars"
+description = "Estudos de Introdução ao Polars"
 authors = ["Carlos Moreno <omorenodovale@gmail.com>"]
 readme = "README.md"
 
